@@ -1,0 +1,6 @@
+name: iRide
+version: 1.0
+description: This plugin adds a recipe for saddles to your bukkit server.
+author: illblew
+website: http://www.westeroscraft.com/
+main: com.westeroscraft.iRide.Main
