@@ -1,6 +1,6 @@
 name: iRide
-version: 1.0
-description: This plugin adds a recipe for saddles to your bukkit server.
+version: 2.0
+description: This plugin adds a recipe for pig and horse saddles and armor to your bukkit server as well as name tags.
 author: illblew
 website: http://www.westeroscraft.com/
 main: com.westeroscraft.iRide.Main
